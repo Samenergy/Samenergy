@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samware.vercel.app/](https://samware.vercel.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web Applications**
 
 - 📫 How to reach me **sdushime38@gmail.com**
 
