@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samuel dushime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel dushime" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/samuel dushime](https://www.linkedin.com/in/samuel-dushime-47a927278/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel dushime" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
