@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Dushime</h1>
 <h3 align="center">Passionate Software Engineer | Innovator in Code | Transforming Ideas into Reality</h3>
 
-- 👨‍💻 All of my projects are available at [https://samware.vercel.app/](https://samware.vercel.app/)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **Web Applications**
 
