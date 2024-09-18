@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Dushime</h1>
 <h3 align="center">Passionate Software Engineer | Innovator in Code | Transforming Ideas into Reality</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samenergy&label=Profile%20views&color=0e75b6&style=flat" alt="samenergy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samenergy" alt="samenergy" /></a> </p>
-
 - 🌱 I’m currently learning **Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://samenergy.vercel.app/](https://samenergy.vercel.app/)
