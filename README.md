@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Dushime</h1>
 <h3 align="center">Passionate Software Engineer | Innovator in Code | Transforming Ideas into Reality</h3>
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://samenergy.vercel.app/](https://samenergy.vercel.app/)
 
